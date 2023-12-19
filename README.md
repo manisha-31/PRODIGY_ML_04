@@ -7,6 +7,8 @@ This repository hosts the code for training a Convolutional Neural Network (CNN)
 Dataset
 The LeapGestRecog dataset is structured by subjects and gestures, with each subject's infrared images categorized by hand gestures.
 
+Dataset :-  https://www.kaggle.com/gti-upm/leapgestrecog
+
 Getting Started
 Clone the repository:
 git clone https://github.com/manisha-31/PRODIGY_ML_04.git
